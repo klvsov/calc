@@ -5,3 +5,5 @@ variable "persons" - the value of the number of people;
 variable "days" - the value of the duration of the trip; 
 variable "place" - place of the trip;
 variable "totalValue" - for output result.
+
+Look ready page in https://easy-calc.herokuapp.com/index.html
